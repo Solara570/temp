@@ -1,5 +1,5 @@
 # temp
-Temporary stuff that worth saving
+一些杂七杂八的东西
 
 ## electron_clouds
 用于绘制氢原子各个原子轨道的电子云图。
@@ -14,3 +14,7 @@ Temporary stuff that worth saving
 | 2       | 15    | 1/3      |
 | 3       | 30    | 1/6      |
 | 4       | 50    | 1/10     |
+
+## orbital_plot
+原子轨道轮廓与杂化轨道轮廓绘制方法的演示，包括HTML和PDF两个版本。
+Jupyter Notebook源并不在这里
