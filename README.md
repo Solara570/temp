@@ -17,4 +17,7 @@
 
 ## orbital_plot
 原子轨道轮廓与杂化轨道轮廓绘制方法的演示，包括HTML和PDF两个版本。
-Jupyter Notebook源并不在这里
+Jupyter Notebook源并不在这里。
+
+## hydrogen_ao_derivation.pdf
+氢原子（和类氢离子）定态薛定谔方程的求解。闲来无事，所以巩固下基础。
